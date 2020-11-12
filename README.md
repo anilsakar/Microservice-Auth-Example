@@ -4,12 +4,12 @@ It is a RESTful microservice example which was written in Java Spring Boot. With
 
 Technologies used in this RESTful service:
 
-[Java Web Tokens(JWT)](https://jwt.io/)
-[Amazon S3 Bucket](https://aws.amazon.com/s3/)
-[RabbitMQ](https://www.rabbitmq.com/)
-[Spring Boot Microservices](https://spring.io/microservices)
-[What is Netflix Eureka](https://dzone.com/articles/netflix-eureka-discovery-microservice#:~:text=What%20Is%20Netflix%20Eureka%3F,Clients%20are%20the%20independent%20microservices.)
-[What is Zuul API Gateway](https://dzone.com/articles/microservices-communication-zuul-api-gateway-1)
+[Java Web Tokens(JWT)](https://jwt.io/)  
+[Amazon S3 Bucket](https://aws.amazon.com/s3/)  
+[RabbitMQ](https://www.rabbitmq.com/)  
+[Spring Boot Microservices](https://spring.io/microservices)  
+[What is Netflix Eureka](https://dzone.com/articles/netflix-eureka-discovery-microservice#:~:text=What%20Is%20Netflix%20Eureka%3F,Clients%20are%20the%20independent%20microservices.)  
+[What is Zuul API Gateway](https://dzone.com/articles/microservices-communication-zuul-api-gateway-1)  
 
 
 
